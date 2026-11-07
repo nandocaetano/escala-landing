@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-labelledby="title">
+  <title id="title">escala</title>
+  <defs><style>@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');</style></defs>
+  <text x="0" y="36" fill="#f6f4ff" font-family="Outfit, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.04em">escala</text>
+  <polygon points="204.00,42.00 188.41,33.00 188.41,15.00 204.00,6.00 219.59,15.00 219.59,33.00" fill="rgba(139,92,246,0.14)" stroke="#8b5cf6" stroke-width="2" />
+</svg>

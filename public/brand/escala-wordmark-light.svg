@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 48" role="img" aria-label="escala">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');</style>
+  </defs>
+  <!-- wordmark text -->
+  <text
+    x="0" y="37"
+    font-family="'Outfit', ui-sans-serif, sans-serif"
+    font-weight="700"
+    font-size="36"
+    letter-spacing="-1.44"
+    fill="#0a0a0f"
+  >escala</text>
+  <!-- hex symbol: pointy-top, cx=210 cy=24 r=18 -->
+  <polygon
+    points="210,6 225.59,15 225.59,33 210,42 194.41,33 194.41,15"
+    fill="rgba(124,58,237,0.12)"
+    stroke="#7c3aed"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+  <!-- inner ring: r=10.8 -->
+  <polygon
+    points="210,13.2 219.35,18.6 219.35,29.4 210,34.8 200.65,29.4 200.65,18.6"
+    fill="none"
+    stroke="rgba(124,58,237,0.38)"
+    stroke-width="1"
+    stroke-linejoin="round"
+  />
+</svg>
